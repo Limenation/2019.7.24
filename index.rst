@@ -9,4 +9,10 @@ INDEX
     :numbered:
 
     ADD_OOP/ADT_OOP
+    
+.. toctree::
+    :caption: 数组与列表
+    :numbered:
+
+    array_and_list/array_and_list
 
